@@ -5,6 +5,7 @@
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-green)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Project](https://img.shields.io/badge/Project-Class%2012-blueviolet)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## Description
 
