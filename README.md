@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
-![Tkinter](https://img.shields.io/badge/Tkinter-GUI-green)
+![Tkinter](https://img.shields.io/badge/Tkinter-GUI-yellow)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Project](https://img.shields.io/badge/Project-Class%2012-blueviolet)
 ![License](https://img.shields.io/badge/License-MIT-pink)
