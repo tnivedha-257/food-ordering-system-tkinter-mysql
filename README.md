@@ -9,7 +9,7 @@
 
 ## Description
 
-This is a Python-based Food Ordering System using Tkinter for GUI and MySQL for database management.
+This is a Python-based Food Ordering System using Tkinter for GUI and MySQL Server for database management.
 
 ## Project Report
 
