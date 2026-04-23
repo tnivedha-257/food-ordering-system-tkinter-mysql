@@ -1,9 +1,9 @@
 <h1 align="center">
 FOOD ORDERING AND MANAGEMENT SYSTEM WITH SMART USER INTERFACES AND ORDER TRACKING
 </h1>
-<h3 align="center">
+<h2 align="center">
 (Class 12 Project)
-</h3>
+</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue">
