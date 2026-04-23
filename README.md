@@ -11,6 +11,10 @@
 
 This is a Python-based Food Ordering System using Tkinter for GUI and MySQL for database management.
 
+## Project Report
+
+[Download Project Report](T_Nivedha_XII_B_2024_25.pdf)
+
 ## Features
 
 * Customer Registration
