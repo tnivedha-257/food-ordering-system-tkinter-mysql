@@ -1,4 +1,4 @@
-# Food Ordering System (Class 12 Project)
+# FOOD ORDERING AND MANAGEMENT SYSTEM WITH SMART USER INTERFACES AND ORDER TRACKING(Class 12 Project)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
