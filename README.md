@@ -6,12 +6,12 @@ FOOD ORDERING AND MANAGEMENT SYSTEM WITH SMART USER INTERFACES AND ORDER TRACKIN
 </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue">
-  <img src="https://img.shields.io/badge/MySQL-Database-orange">
-  <img src="https://img.shields.io/badge/Tkinter-GUI-green">
-  <img src="https://img.shields.io/badge/Status-Completed-brightgreen">
-  <img src="https://img.shields.io/badge/Project-Class%2012-blueviolet">
-  <img src="https://img.shields.io/badge/License-MIT-yellow">
+  <img src="https://img.shields.io/badge/Python-42A5F5?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/MySQL-29B6F6?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Tkinter-66BB6A?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter">
+  <img src="https://img.shields.io/badge/Status-Completed-43A047?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Project-Class%2012-AB47BC?style=for-the-badge" alt="Project">
+  <img src="https://img.shields.io/badge/License-MIT-FFA726?style=for-the-badge" alt="License">
 </p>
 
 ## Description
